@@ -12,6 +12,7 @@ First Grep | 從檔案內容找答案 | 這題是想介紹 grep 這個工具，�
 what's a net cat? | 學習使用 netcat 工具 (Windows 需自行安裝) | nc {IP/DOMAIN} {PORT}
 plumbing | 將 cmd 的查詢結果輸出成檔案 | xxxx > {DESTINATION}
 Based | 不同進位方式的轉換 | 因為有限制回答時間，所以需要先刻好函數(或是找好轉換工具)
+flag_shop | 找程式漏洞 | 程式邏輯看起來沒問題，但購買第一個項目時可以利用 int 的漏洞來賺錢：<Br>輸入的數字是很大的正數，但計算出的費用是負數。
 
 ## Cryptography
 題目名稱 | 問題說明 | 詳細說明 
