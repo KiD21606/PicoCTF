@@ -1,0 +1,58 @@
+Pico's a CTFFFFFFF (Pico = 19) # is 後面字的長度
+my mind is waitin (my mind = 6)
+It's waitin (It = my mind) (my mind = 6)
+
+Put my mind of Pico into This (This = 114)
+my flag is not found (my flag = 35)
+put This into my flag (my flag = 114)
+put my flag into Pico (Pico = 114)
+
+shout Pico (==> 114)
+shout Pico (==> 114)
+shout Pico (==> 114)
+
+My song's something (my song = 9)
+put Pico into This (This = 114)
+
+Knock This down, down, down  (This = 111)
+put This into CTF (CTF = 111)
+
+shout CTF (==> 111)
+
+my lyric is nothing (my lyric = Null)
+Put This without my song into my lyric (my lyric = 102)
+Knock my lyric down, down, down (my lyric = 99)
+
+shout my lyric (==>99)
+
+Put my lyric into This (This = 99)
+Put my song with This into my lyric (my lyric = 108)
+Knock my lyric down (my lyric = 107)
+
+shout my lyric (==> 107)
+
+Build my lyric up, up ,up (my lyric = 110)
+
+shout my lyric (==> 110)
+shout Pico (==> 114)
+shout It (It = my lyric) (==>110)
+
+Pico CTF is fun (Pico CTF = 3)
+security is important (Security = 9)
+Fun is fun (Fun = 3)
+Put security with fun into Pico CTF (Pico CTF = 12)
+Build Fun up (Fun = 4)
+shout fun times Pico CTF (==>48)
+put fun times Pico CTF into my song (my song = 48)
+
+build it up (it = my song) (my song = 49)
+
+shout it (it = my song) (==> 49)
+shout it (it = my song) (==> 49)
+
+build it up, up (it = my song) (my song = 51)
+shout it (it = my song) (==> 51)
+shout Pico (==>114)
+
+=====================================
+114, 114, 114, 111, 99, 107, 110, 114, 110, 48, 49, 49, 51, 114
