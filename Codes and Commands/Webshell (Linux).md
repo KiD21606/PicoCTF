@@ -1,0 +1,3 @@
+- 讀檔案：`cat <filename>`
+- 查看輸入過的 command：`history`
+- 
