@@ -1,5 +1,5 @@
 # 目錄
-1. [設定Proxy](#設定Proxy)
+1. [設定 Proxy](#設定 Proxy)
 2. 參考資料
 
 
@@ -11,7 +11,7 @@ Brute Suite 有
 可以選擇，我是下載免費版來使用。
 
 
-## 設定Proxy
+## 設定 Proxy
 
 
 
