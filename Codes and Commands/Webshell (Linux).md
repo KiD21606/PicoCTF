@@ -1,3 +1,5 @@
-- 讀檔案：`cat <filename>`
 - 查看輸入過的 command：`history`
+- 讀檔案：`cat <filename>`
+- 抓題目提供的檔案：`wget <URL>`
+- 存取網路資源 `curl <URL>`
 - 
